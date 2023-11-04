@@ -7,5 +7,6 @@ To get started
 - `cd newProject`
 - `git clone https://github.com/AustinWheel/ReactNativeAuthFlowTemplate.git`
 - Add a `.env` file with `EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=[YOUR CLERK PUBLISHABLE KEY]` added.
+- Run `npm install` to get the required dependencies.
 - Use `npm start` to start the frontend application.
 - Make whatever changes you want!
